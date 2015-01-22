@@ -10,7 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            var test = "Yo";
+            var test = "Hello World!";
+            
         }
     }
 }
